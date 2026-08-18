@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-d8ynx6.indcuan.sbs/sitemap.xml
